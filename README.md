@@ -57,10 +57,10 @@ const anas = {
 ### 🎯 **Current Focus**
 
 - 🔭 Building **production-ready SaaS applications**
-- 🌱 Deep diving into **Angular & Spring Boot ecosystem**
+- 🌱 Learning **Angular & Spring Boot ecosystem**
 - 👯 Open for **freelance SaaS projects & collaborations**
-- 🎯 2025 Goals: **Contribute more to Open Source**
-- ⚡ Philosophy: **Write code that your future self will thank you for**
+- 🎯 2026 Goals: **Contribute more to Open Source**
+- ⚡ Philosophy: **Legends never dies**
 
 ### 📬 **Quick Links**
 
