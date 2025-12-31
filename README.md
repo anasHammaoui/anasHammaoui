@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9373&height=180&section=header&text=Anas%20Hammaoui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9373&height=180&section=header&text=Anas%20Hammaoui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Developer%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+SaaS+Applications+%F0%9F%9A%80;Clean+Code+%7C+Clean+Architecture+%E2%9C%A8;Laravel+%7C+React+%7C+Next.js+Expert+%F0%9F%92%BB;Turning+Ideas+into+Digital+Reality+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+SaaS+Applications+%F0%9F%9A%80;Clean+Code+%7C+Clean+Architecture+%E2%9C%A8;Laravel+%7C+React+%7C+Next.js+%F0%9F%92%BB;Turning+Ideas+into+Digital+Reality+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 ```javascript
 const anas = {
     location: "Morocco 🇲🇦",
-    role: "Full Stack Developer & SaaS Architect",
+    role: "Full Stack Developer & SaaS Developer",
     workingOn: "Building scalable SaaS products",
     learning: ["Angular", "Spring Boot", "System Design", "Cloud Architecture"],
     askMeAbout: ["Laravel", "React", "Next.js", "API Design", "Database Optimization"],
@@ -125,11 +125,7 @@ const anas = {
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </details>
@@ -175,7 +171,6 @@ const anas = {
 ### ⚡ **Performance Checklist**
 - ✅ Database indexing & query optimization
 - ✅ Caching strategies (Redis, CDN)
-- ✅ Lazy loading & code splitting
 - ✅ API response compression
 - ✅ Image optimization & WebP
 - ✅ Server-Side Rendering (SSR)
