@@ -1,55 +1,321 @@
-<h1 align="center">Hi 👋, I'm Anas Hammaoui</h1>
-<h3 align="center">A passionate Full Stack Developer from Morocco</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎨 HEADER SECTION - ANIMATED BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anashammaoui&label=Profile%20views&color=0e75b6&style=flat" alt="anashammaoui" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anas%20Hammaoui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anashammaoui" alt="anashammaoui" /></a> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 PROFILE BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-- 🔭 I’m currently working on **SaaS Projects**
-- 🌱 I’m currently learning **Angular and Springboot**
-- 👯 I’m looking to collaborate on **Freelance SaaS Projects**
-- 👨‍💻 All of my projects are available at [https://www.anashammaoui.me](https://www.anashammaoui.me)
-- 📝 I regularly write articles on [https://medium.com/@anashammaoui](https://medium.com/@anashammaoui)
-- 💬 Ask me about **Laravel, React and NextJs**
-- 📫 How to reach me **anashammaoui.dev@gmail.com**
-- ⚡ Fun fact **I'm a legend (it's the reality 😂😅)**
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=anashammaoui&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/anashammaoui?label=Followers&style=for-the-badge&color=blue)](https://github.com/anashammaoui)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-anashammaoui.me-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anashammaoui.me)
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anas-hammaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-hammaoui" height="30" width="40" /></a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ⌨️ TYPING ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4hgAj2QByaNVhFdb3OYDtsidv54ynE0QOw&s" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+SaaS+Applications+%F0%9F%9A%80;Clean+Code+%7C+Clean+Architecture+%E2%9C%A8;Laravel+%7C+React+%7C+Next.js+Expert+%F0%9F%92%BB;Turning+Ideas+into+Digital+Reality+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anashammaoui" alt="anashammaoui" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anashammaoui&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 👨‍💻 ABOUT ME SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
+```javascript
+const anas = {
+    location: "Morocco 🇲🇦",
+    role: "Full Stack Developer & SaaS Architect",
+    workingOn: "Building scalable SaaS products",
+    learning: ["Angular", "Spring Boot", "System Design", "Cloud Architecture"],
+    askMeAbout: ["Laravel", "React", "Next.js", "API Design", "Database Optimization"],
+    funFact: "I turn coffee into code and bugs into features ☕ → 💻",
+    motto: "Clean code is not written by following a set of rules. Clean code is written by a craftsman."
+};
+```
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🎯 **Current Focus**
+
+- 🔭 Building **production-ready SaaS applications**
+- 🌱 Deep diving into **Angular & Spring Boot ecosystem**
+- 👯 Open for **freelance SaaS projects & collaborations**
+- 🎯 2025 Goals: **Contribute more to Open Source**
+- ⚡ Philosophy: **Write code that your future self will thank you for**
+
+### 📬 **Quick Links**
+
+| 🌐 | **Platform** | **Link** |
+|:--:|:-------------|:---------|
+| 💼 | Portfolio | [anashammaoui.me](https://www.anashammaoui.me) |
+| 📝 | Blog | [medium.com/@anashammaoui](https://medium.com/@anashammaoui) |
+| 📧 | Email | anashammaoui.dev@gmail.com |
+
+<br clear="right"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Tech Arsenal**
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Storage</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 DevOps & Tools</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Design & Productivity</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 FULL STACK TIPS & ARCHITECTURE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## 💡 **Full Stack Developer Insights**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ **Architecture Patterns**
+```
+├── 📂 Clean Architecture
+├── 📂 Domain-Driven Design (DDD)
+├── 📂 SOLID Principles
+├── 📂 Repository Pattern
+├── 📂 Service Layer Pattern
+└── 📂 Event-Driven Architecture
+```
+
+</td>
+<td width="50%">
+
+### ⚡ **Performance Checklist**
+- ✅ Database indexing & query optimization
+- ✅ Caching strategies (Redis, CDN)
+- ✅ Lazy loading & code splitting
+- ✅ API response compression
+- ✅ Image optimization & WebP
+- ✅ Server-Side Rendering (SSR)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 **Security Best Practices**
+- 🛡️ Input validation & sanitization
+- 🛡️ CSRF & XSS protection
+- 🛡️ SQL injection prevention
+- 🛡️ JWT & OAuth2 implementation
+- 🛡️ HTTPS & secure headers
+- 🛡️ Rate limiting & throttling
+
+</td>
+<td width="50%">
+
+### 📦 **DevOps Workflow**
+```yaml
+CI/CD Pipeline:
+  - lint → test → build → deploy
+  
+Containerization:
+  - Docker → Docker Compose → K8s
+  
+Monitoring:
+  - Logs → Metrics → Alerts
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATISTICS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anashammaoui&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Anas Hammaoui github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashammaoui&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashammaoui&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="anashammaoui" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anashammaoui&custom_title=Anas's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=6AD3F7&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🤝 CONNECT SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-hammaoui)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anashammaoui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.anashammaoui.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anashammaoui.dev@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💰 SUPPORT SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### 💼 **Open for Opportunities**
+
+> *"Great things are not done by impulse, but by a series of small things brought together."*
+
+**Looking for a dedicated Full Stack Developer for your next SaaS project?**
+<br/>
+Let's build something amazing together! 🚀
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Available-brightgreen?style=for-the-badge)](mailto:anashammaoui.dev@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anashammaoui)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎨 FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Star my repositories if you find them useful! ⭐</sub>
+  <br/>
+  <sub>Made with ❤️ by <a href="https://www.anashammaoui.me">Anas Hammaoui</a></sub>
+</div>
