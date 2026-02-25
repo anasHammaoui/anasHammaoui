@@ -43,8 +43,7 @@ const anas = {
     location: "Morocco 🇲🇦",
     role: "Full Stack Developer & SaaS Developer",
     workingOn: "Building scalable SaaS products",
-    learning: ["Angular", "Spring Boot", "System Design", "Cloud Architecture"],
-    askMeAbout: ["Laravel", "React", "Next.js", "API Design", "Database Optimization"],
+    askMeAbout: ["Laravel", "Spring", "React", "Next.js", "API Design", "Database Optimization"],
     funFact: "I turn coffee into code and bugs into features ☕ → 💻",
     motto: "Clean code is not written by following a set of rules. Clean code is written by a craftsman."
 };
@@ -57,7 +56,6 @@ const anas = {
 ### 🎯 **Current Focus**
 
 - 🔭 Building **production-ready SaaS applications**
-- 🌱 Learning **Angular & Spring Boot ecosystem**
 - 👯 Open for **freelance SaaS projects & collaborations**
 - 🎯 2026 Goals: **Contribute more to Open Source**
 - ⚡ Philosophy: **Legends never dies**
